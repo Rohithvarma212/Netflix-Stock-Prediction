@@ -9,7 +9,7 @@ Feature engineering
 Model training and evaluation using various algorithms
 Visualization of predictions
 Data
-The dataset used in this project is sourced from Yahoo Finance and contains historical stock prices of Netflix (NFLX). The data includes the following columns:
+The dataset used in this project is sourced from kaggle and contains historical stock prices of Netflix (NFLX). The data includes the following columns:
 
 Date
 Open
